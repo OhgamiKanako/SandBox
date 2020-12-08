@@ -3,7 +3,7 @@ package jp.ac.o_hara.site.blog;
 import java.io.Serializable;
 import java.sql.Date;
 
-public class BlogBean implements Serializable {
+public class BlogBean implements Serializable{
 	private String userId = null;
 	private Date date = null;
 	private String title = null;
